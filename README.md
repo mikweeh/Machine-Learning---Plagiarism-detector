@@ -14,7 +14,7 @@ In this project, you will be tasked with building a plagiarism detector that exa
 
 You have been given starting notebooks in a Github repository, linked below.
 
-    Since this project uses SageMaker, it is suggested that you create a new SageMaker notebook instance using your AWS console and link it to the Github repository https://github.com/udacity/ML_SageMaker_Studies.
+Since this project uses SageMaker, it is suggested that you create a new SageMaker notebook instance using your AWS console and link it to the Github repository https://github.com/udacity/ML_SageMaker_Studies.
 
 The project files are in the Project_Plagiarism_Detection directory.
 
